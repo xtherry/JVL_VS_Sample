@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JVL_VS_Sample", "JVL_VS_Sample", "{BD9534A0-CC2C-43AE-886B-695E5AD191CB}"
+	ProjectSection(SolutionItems) = preProject
+		WebGoat\AddNewUser.aspx = WebGoat\AddNewUser.aspx
+		WebGoat\AddNewUser.aspx.cs = WebGoat\AddNewUser.aspx.cs
+		WebGoat\AddNewUser.aspx.designer.cs = WebGoat\AddNewUser.aspx.designer.cs
+		WebGoat\ChangePassword.aspx = WebGoat\ChangePassword.aspx
+		WebGoat\ChangePassword.aspx.cs = WebGoat\ChangePassword.aspx.cs
+		WebGoat\ChangePassword.aspx.designer.cs = WebGoat\ChangePassword.aspx.designer.cs
+		WebGoat\dbtest.aspx.cs = WebGoat\dbtest.aspx.cs
+		WebGoat\dbtest.aspx.designer.cs = WebGoat\dbtest.aspx.designer.cs
+		WebGoat\Default.aspx = WebGoat\Default.aspx
+		WebGoat\Default.aspx.cs = WebGoat\Default.aspx.cs
+		WebGoat\Default.aspx.designer.cs = WebGoat\Default.aspx.designer.cs
+		WebGoat\DotNetGoat.pidb = WebGoat\DotNetGoat.pidb
+		WebGoat\ForgotPassword.aspx = WebGoat\ForgotPassword.aspx
+		WebGoat\ForgotPassword.aspx.cs = WebGoat\ForgotPassword.aspx.cs
+		WebGoat\ForgotPassword.aspx.designer.cs = WebGoat\ForgotPassword.aspx.designer.cs
+		WebGoat\Content\SQLInjectionDiscovery.aspx.cs = WebGoat\Content\SQLInjectionDiscovery.aspx.cs
+		WebGoat\TODO.txt = WebGoat\TODO.txt
+		WebGoat\Web.config = WebGoat\Web.config
+		WebGoat\Web.sitemap = WebGoat\Web.sitemap
+		WebGoat\web.sitemap.backup = WebGoat\web.sitemap.backup
+		WebGoat\WebGoat.NET.csproj = WebGoat\WebGoat.NET.csproj
+		WebGoat\WebGoat.NET.csproj.user = WebGoat\WebGoat.NET.csproj.user
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08F4EED2-7BD2-4B92-A78D-BC2D5F0BFA0D}
+	EndGlobalSection
+EndGlobal
